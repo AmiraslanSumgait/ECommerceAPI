@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Mpj3G+i8HsFAQG2tqnd2oF4dWjW6Vfxx2Xxj1AVSw0a2lNxq7nnwqVAog4q+NhZ+T8gPH2y+Ls4kcZZxsRI6Dg==",
+  "dgSpecHash": "e6npyWQHDd9E0A0kClr3/RBLxZ328Q6reIv7/EbvwH2e9gpKGe/l3TuK6f+TOjBD+0JmzmpksVNF6NxX8MFQ0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Amiraslan\\Desktop\\E-Commerce program\\ECommerceAPI\\Infrastructure\\ECommerceAPI.Infrastructure\\ECommerceAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.2\\fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",

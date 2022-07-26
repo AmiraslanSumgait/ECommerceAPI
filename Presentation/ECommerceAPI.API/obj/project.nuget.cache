@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DduqqHNaY0bG5hdLTH7bjU6WXf1+6SPEDNpKB9g1oWnc6sdUmuh8u3ja57es21aVto2+M+1Uh/M753e6+QLEXw==",
+  "dgSpecHash": "a73AyN+aAGdfq4IFqKGrGPqJP31IYHfqm4Na0RiKTABzCtqqoDsN+Y6cWLD8LUQaVOC69I4eAlD7CxoasOqMCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Amiraslan\\Desktop\\E-Commerce program\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.2\\fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+    "C:\\Users\\Amiraslan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Amiraslan\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
